@@ -3,6 +3,9 @@
 # svg2gcode4lasers
 Create gCode for laserEngravers based on Grbl from svg files
 
+## Goal
+Create free software that enables DIY laser engraver builders to easily convert their images to gcode. This software must be open and online running inbrowser following the philosophy of other platforms like <a href="http://www.chilipeppr.com/grbl" target="_blank">chilipeppr</a>.  
+
 ## Concept
 - [ ] upload svg images
 - [ ] drag, scale and rotate the image
