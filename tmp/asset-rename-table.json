@@ -1,0 +1,113 @@
+{
+  "pui-css-alignment": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-css-alignment",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-colors": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-css-colors",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-bootstrap": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-sortable-table/node_modules/pui-css-tables/node_modules/pui-css-bootstrap",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-images": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-css-images",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-whitespace": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-css-whitespace",
+    "assetLocationTranslation": {}
+  },
+  "react-select": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/react-select/dist",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-typography": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-lists/node_modules/pui-css-lists/node_modules/pui-css-typography",
+    "assetLocationTranslation": {
+      "fonts/sourcesanspro-light-webfont.eot": "pui-css-typography/sourcesanspro-light-webfont.eot",
+      "fonts/sourcesanspro-light-webfont.woff": "pui-css-typography/sourcesanspro-light-webfont.woff",
+      "fonts/sourcesanspro-light-webfont.ttf": "pui-css-typography/sourcesanspro-light-webfont.ttf",
+      "fonts/sourcesanspro-light-webfont.svg": "pui-css-typography/sourcesanspro-light-webfont.svg",
+      "fonts/sourcesanspro-regular-webfont.eot": "pui-css-typography/sourcesanspro-regular-webfont.eot",
+      "fonts/sourcesanspro-regular-webfont.woff": "pui-css-typography/sourcesanspro-regular-webfont.woff",
+      "fonts/sourcesanspro-regular-webfont.ttf": "pui-css-typography/sourcesanspro-regular-webfont.ttf",
+      "fonts/sourcesanspro-regular-webfont.svg": "pui-css-typography/sourcesanspro-regular-webfont.svg",
+      "fonts/sourcesanspro-it-webfont.eot": "pui-css-typography/sourcesanspro-it-webfont.eot",
+      "fonts/sourcesanspro-it-webfont.woff": "pui-css-typography/sourcesanspro-it-webfont.woff",
+      "fonts/sourcesanspro-it-webfont.ttf": "pui-css-typography/sourcesanspro-it-webfont.ttf",
+      "fonts/sourcesanspro-it-webfont.svg": "pui-css-typography/sourcesanspro-it-webfont.svg",
+      "fonts/sourcesanspro-bold-webfont.eot": "pui-css-typography/sourcesanspro-bold-webfont.eot",
+      "fonts/sourcesanspro-bold-webfont.woff": "pui-css-typography/sourcesanspro-bold-webfont.woff",
+      "fonts/sourcesanspro-bold-webfont.ttf": "pui-css-typography/sourcesanspro-bold-webfont.ttf",
+      "fonts/sourcesanspro-bold-webfont.svg": "pui-css-typography/sourcesanspro-bold-webfont.svg",
+      "fonts/sourcesanspro-black-webfont.eot": "pui-css-typography/sourcesanspro-black-webfont.eot",
+      "fonts/sourcesanspro-black-webfont.woff": "pui-css-typography/sourcesanspro-black-webfont.woff",
+      "fonts/sourcesanspro-black-webfont.ttf": "pui-css-typography/sourcesanspro-black-webfont.ttf",
+      "fonts/sourcesanspro-black-webfont.svg": "pui-css-typography/sourcesanspro-black-webfont.svg"
+    }
+  },
+  "pui-css-alerts": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-alerts/node_modules/pui-css-alerts",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-forms": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-radio/node_modules/pui-css-forms",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-autocomplete": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-autocomplete/node_modules/pui-css-autocomplete",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-buttons": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-buttons/node_modules/pui-css-buttons",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-collapse": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-collapse/node_modules/pui-css-collapse",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-dividers": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-dividers/node_modules/pui-css-dividers",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-grids": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-grids/node_modules/pui-css-grids",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-labels": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-labels/node_modules/pui-css-labels",
+    "assetLocationTranslation": {}
+  },
+  "font-awesome": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-sortable-table/node_modules/pui-css-iconography/node_modules/font-awesome/css",
+    "assetLocationTranslation": {
+      "../fonts/fontawesome-webfont.eot": "font-awesome/fontawesome-webfont.eot",
+      "../fonts/fontawesome-webfont.woff2": "font-awesome/fontawesome-webfont.woff2",
+      "../fonts/fontawesome-webfont.woff": "font-awesome/fontawesome-webfont.woff",
+      "../fonts/fontawesome-webfont.ttf": "font-awesome/fontawesome-webfont.ttf",
+      "../fonts/fontawesome-webfont.svg": "font-awesome/fontawesome-webfont.svg"
+    }
+  },
+  "pui-css-iconography": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-sortable-table/node_modules/pui-css-iconography",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-lists": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-lists/node_modules/pui-css-lists",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-panels": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-panels/node_modules/pui-css-panels",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-tables": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-sortable-table/node_modules/pui-css-tables",
+    "assetLocationTranslation": {}
+  },
+  "pui-css-media": {
+    "baseAssetDir": "/Users/appsaloontoonnelissen/Sites/svg2gcode4lasers/node_modules/pui-react-alerts/node_modules/pui-react-media/node_modules/pui-css-media",
+    "assetLocationTranslation": {}
+  }
+}

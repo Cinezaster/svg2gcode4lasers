@@ -15,5 +15,49 @@
   "bugs": {
     "url": "https://github.com/Cinezaster/svg2gcode4lasers/issues"
   },
-  "homepage": "https://github.com/Cinezaster/svg2gcode4lasers#readme"
+  "homepage": "https://github.com/Cinezaster/svg2gcode4lasers#readme",
+  "engines": {
+    "node": "4.2.1"
+  },
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browser-sync": "^2.9.11",
+    "browserify": "^11.2.0",
+    "del": "^2.0.2",
+    "dr-frankenstyle": "^0.2.7",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-less": "^3.0.3",
+    "gulp-notify": "^2.2.0",
+    "gulp-sequence": "^0.4.1",
+    "lodash": "^3.10.1",
+    "require-dir": "^0.3.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "paper": "^0.9.25",
+    "parse": "^1.6.5",
+    "parse-react": "^0.5.0",
+    "pui-css-alignment": "^3.0.0-alpha.1",
+    "pui-css-colors": "^3.0.0-alpha.1",
+    "pui-css-images": "^3.0.0-alpha.1",
+    "pui-css-whitespace": "^3.0.0-alpha.1",
+    "pui-react-alerts": "^3.0.0-alpha.1",
+    "pui-react-autocomplete": "^3.0.0-alpha.1",
+    "pui-react-buttons": "^3.0.0-alpha.1",
+    "pui-react-collapse": "^3.0.0-alpha.1",
+    "pui-react-dividers": "^3.0.0-alpha.1",
+    "pui-react-grids": "^3.0.0-alpha.1",
+    "pui-react-labels": "^3.0.0-alpha.1",
+    "pui-react-lists": "^3.0.0-alpha.1",
+    "pui-react-panels": "^3.0.0-alpha.1",
+    "pui-react-radio": "^3.0.0-alpha.1",
+    "pui-react-radio-group": "^3.0.0-alpha.1",
+    "pui-react-sortable-table": "^3.0.0-alpha.1",
+    "react": "^0.14.2",
+    "react-bootstrap": "^0.27.3",
+    "react-dom": "^0.14.0",
+    "react-select": "^0.8.1",
+    "underscore": "^1.8.3"
+  }
 }
