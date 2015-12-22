@@ -1,7 +1,7 @@
 import React from 'react'
 import { render, findDOMNode } from 'react-dom'
 import {DefaultButton} from 'pui-react-buttons'
-import {BasicPanelAlt} from 'pui-react-panels'
+import {BasicPanelAlt, Panel} from 'pui-react-panels'
 import {Row, Col} from 'pui-react-grids'
 import {AltCollapse} from 'pui-react-collapse'
 import paper from '../../node_modules/paper/dist/paper-full.js'
@@ -65,14 +65,16 @@ class TreeNode extends React.Component {
 		super ()
 	}
 	render () {
+		console.log(this.props.parent)
 		return (
-			<AltCollapse header={this.props.parent.constructor.name} defaultExpanded>
+			<Panel title={this.props.parent.constructor.name}>
+				<div>size: {this.props.parent.bounds.x}x{this.props.parent.bounds.y}</div>
 				{this.props.node.map(function (item,i) {
 					return (
 						<TreeNodeSub key={i} item={item}/>
 					)
 				})}
-			</AltCollapse>
+			</Panel>
 		)
 	}
 }
@@ -157,8 +159,8 @@ class SVGPaths extends React.Component {
 	render () {
 		return (
 			<BasicPanelAlt title="Svg Paths">
-				{(this.props.projects[0])? 
-				<TreeNode node={this.props.projects[0].layers} parent={paper}/>
+				{(this.props.layers && this.props.layers[0])? 
+				<TreeNode node={this.props.layers[0].children} parent={this.props.layers[0]}/>
 				:null}
 			</BasicPanelAlt>
 		)
@@ -217,11 +219,12 @@ class MainComponent extends React.Component {
 		})
 	}
 	render () {
+		var layers = (paper.projects && paper.projects[0])? paper.projects[0].layers:undefined;
 		return (
 			<Row className="grid-show">
 				<Col md={6}>
 					<SVGImport setProject={this.setProject}/>
-					<SVGPaths projects={paper.projects}/>
+					<SVGPaths layers={layers}/>
 				</Col>
 				<Col md={12}>
 					<SVGPreview/>
