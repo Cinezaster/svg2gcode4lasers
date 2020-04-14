@@ -30,7 +30,7 @@
     "gulp-less": "^3.0.3",
     "gulp-notify": "^2.2.0",
     "gulp-sequence": "^0.4.1",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.15",
     "require-dir": "^0.3.0",
     "vinyl-source-stream": "^1.1.0"
   },
